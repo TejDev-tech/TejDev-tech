@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TejDev-tech
+- 👋 Hi, I’m @Tejas Shrimali
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript/Python
 - 💞️ I’m looking to collaborate on some interesting projects
